@@ -1,9 +1,10 @@
 {
-  "latest_version": "1.0.0",
-  "release_notes": "修复了设置窗口卡死的Bug，新增清空聊天记录功能。",
+  "latest_version": "main",
+  "release_date": "2026-07-05 15:54:23 CST",
+  "release_notes": "Release main",
   "downloads": {
-    "windows": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/nexus-chat-1.0.0-windows.msi",
-    "macos": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/nexus-chat-1.0.0-macos.dmg",
-    "android": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/nexus-chat-1.0.0-android.apk"
+    "windows": "https://github.com/lalala0237/Nexus-Chat/releases/download/main/NexusChat-main.msi",
+    "macos": "https://github.com/lalala0237/Nexus-Chat/releases/download/main/NexusChat-main.dmg",
+    "android": "https://github.com/lalala0237/Nexus-Chat/releases/download/main/Nexus-Chat-Android.apk"
   }
 }
