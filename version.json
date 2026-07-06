@@ -1,15 +1,15 @@
 {
   "latest_version": "1.0.0rc1",
-  "release_date": "2026-07-06 10:10:05 CST",
+  "release_date": "2026-07-06 11:15:20 CST",
   "release_notes": "Release 1.0.0rc1",
   "downloads": {
-    "windows": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc1/Nexus-Chat-1.0.0rc1.msi",
-    "macos": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc1/Nexus-Chat-1.0.0rc1.dmg",
-    "android": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc1/Nexus-Chat-Android.apk"
+    "windows": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc1/Nexus-Chat-Windows-1.0.0rc1.msi",
+    "macos": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc1/Nexus-Chat-MacOS-1.0.0rc1.dmg",
+    "android": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc1/Nexus-Chat-Android-1.0.0rc1.apk"
   },
   "checksums": {
     "windows": "",
     "macos": "",
-    "android": ""
+    "android": "fd196f6354672b1bc125cc55f4db27eaa1d22e572416d90a4ac1e31643c6e9c0"
   }
 }
