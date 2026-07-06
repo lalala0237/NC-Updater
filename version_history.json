@@ -16,6 +16,15 @@
 //    - JSON 数据部分（"history" 数组）为纯 JSON，可被标准解析器正常读取
 //    - 客户端 updater.py 使用正则去除 "//" 注释行后再进行 JSON 解析
 //
+//  【字段说明】
+//    - version        : 版本号（SemVer 2.0.0，格式 x.y.z 或 x.y.z-pre）
+//    - release_date   : 发布时间（北京时间 UTC+8）
+//    - is_prerelease  : 是否为预发布版本（true / false）
+//    - tag_name       : 对应的 Git Tag 名称
+//    - release_page   : GitHub Release 页面链接
+//    - downloads      : 各平台下载链接
+//    - checksums      : 各平台文件的 SHA256 校验值
+//
 // ====================================================================
 
 // --------------------------------------------------------------------
