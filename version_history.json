@@ -18,31 +18,48 @@
 //
 // ====================================================================
 // --------------------------------------------------------------------
-//  版本: v1.0.0 (正式版本 (Stable))
-//  发布时间: 2026-07-12 21:10:03 CST
-//  Git Tag: v1.0.0
+//  版本: v1.0.0rc2 (预发布版本 (Prerelease))
+//  发布时间: 2026-07-15 16:43:01 CST
+//  Git Tag: v1.0.0rc2
 //  构建仓库: lalala0237/Nexus-Chat
-// ✅ 此版本为正式发布版本，推荐所有用户更新
+// ⚠️ 注意：此版本为预发布版本，可能包含未修复的 Bug，仅供测试使用
 // --------------------------------------------------------------------
 {
   "history": [
     {
-  "version": "1.0.0",
-  "release_date": "2026-07-12 21:10:03 CST",
-  "is_prerelease": false,
-  "tag_name": "v1.0.0",
-  "release_page": "https://github.com/lalala0237/Nexus-Chat/releases/tag/v1.0.0",
+  "version": "1.0.0rc2",
+  "release_date": "2026-07-15 16:43:01 CST",
+  "is_prerelease": true,
+  "tag_name": "v1.0.0rc2",
+  "release_page": "https://github.com/lalala0237/Nexus-Chat/releases/tag/v1.0.0rc2",
   "downloads": {
-    "windows": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/Nexus-Chat-Windows-1.0.0.msi",
-    "macos": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/Nexus-Chat-MacOS-1.0.0.dmg",
-    "android": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/Nexus-Chat-Android-1.0.0.apk"
+    "windows": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc2/Nexus-Chat-Windows-1.0.0rc2.msi",
+    "macos": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc2/Nexus-Chat-MacOS-1.0.0rc2.dmg",
+    "android": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0rc2/Nexus-Chat-Android-1.0.0rc2.apk"
   },
   "checksums": {
-    "windows": "f75b0606ca1adec725f7597c304f4c2a215c017ab765fcd18d67f484d7268d1b",
-    "macos": "645096d17cb2b9e7349bb199e7c696b131baa4cfbb2d1af4df9c6283de56a54c",
-    "android": "9018a88e9c6f7995a80f4897597fea16b9341103773db417388ecc0f3fb9988f"
+    "windows": "135e394e855a43e3d4d21cb02bbb8b0d11e900e33e4868df63f31a3088027f96",
+    "macos": "0cb5e4dbf8cdbd0046c6f9e5a708deaf9b386497818e08d6719a7d4ceb8ffe34",
+    "android": "3499b81cfbb5abaa28e3bfd06aeb2c17364dc5d0d32904c9d779380a8fc56d3e"
   }
 },
+      {
+        "version": "1.0.0",
+        "release_date": "2026-07-12 21:10:03 CST",
+        "is_prerelease": false,
+        "tag_name": "v1.0.0",
+        "release_page": "https://github.com/lalala0237/Nexus-Chat/releases/tag/v1.0.0",
+        "downloads": {
+          "windows": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/Nexus-Chat-Windows-1.0.0.msi",
+          "macos": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/Nexus-Chat-MacOS-1.0.0.dmg",
+          "android": "https://github.com/lalala0237/Nexus-Chat/releases/download/v1.0.0/Nexus-Chat-Android-1.0.0.apk"
+        },
+        "checksums": {
+          "windows": "f75b0606ca1adec725f7597c304f4c2a215c017ab765fcd18d67f484d7268d1b",
+          "macos": "645096d17cb2b9e7349bb199e7c696b131baa4cfbb2d1af4df9c6283de56a54c",
+          "android": "9018a88e9c6f7995a80f4897597fea16b9341103773db417388ecc0f3fb9988f"
+        }
+      },
       {
         "version": "1.0.0rc1",
         "release_date": "2026-07-06 10:10:06 CST",
